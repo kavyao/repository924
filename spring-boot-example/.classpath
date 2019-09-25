@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aop-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aop-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aop-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aspects-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aspects-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-aspects-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-beans-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-beans-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-beans-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-indexer-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-indexer-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-indexer-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-support-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-support-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-context-support-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-core-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-core-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-core-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-expression-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-expression-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-expression-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-instrument-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-instrument-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-instrument-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jcl-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jcl-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jcl-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jdbc-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jdbc-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jdbc-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jms-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jms-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-jms-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-messaging-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-messaging-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-messaging-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-orm-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-orm-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-orm-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-oxm-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-oxm-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-oxm-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-test-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-test-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-test-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-tx-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-tx-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-tx-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-web-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-web-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-web-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webflux-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webflux-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webflux-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webmvc-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webmvc-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-webmvc-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-websocket-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-websocket-5.1.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/spring-demo-annotations/lib/spring-websocket-5.1.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/kavya/Downloads/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
